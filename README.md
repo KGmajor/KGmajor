@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kristal (she/her) and I'm a software engineer & community builder. I'm originally from El Paso, Texas and live in the Bay Area with my family. You can find me  working on [YearOne](https://joinyearone.io) or on the web at [Twitter][1],  or on [LinkedIn][3].
+I'm Kristal (she/her) and I'm a software engineer & community builder. I'm originally from El Paso, Texas and live in the Bay Area with my family. You can find me working at [On Deck](https://beondeck.com) or on the web at [Twitter][1],  or on [LinkedIn][3].
 
 
 ## &#x1f4c8; GitHub Stats
