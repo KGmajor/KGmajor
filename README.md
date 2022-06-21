@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kristal (she/her) and I'm a software engineer & community builder. I'm originally from El Paso, Texas and live in the Bay Area with my family. You can find me on the web at [Twitter][1],  or on [LinkedIn][3].
+I'm Kristal (she/her) and I'm a software engineer & community builder. I'm originally from El Paso, Texas and live in the Bay Area with my family. You can find me on [Twitter][1].
 
 
 ## &#x1f4c8; GitHub Stats
@@ -18,7 +18,6 @@ I'm Kristal (she/her) and I'm a software engineer & community builder. I'm origi
 
 [1]: https://twitter.com/kristal_s_
 [2]: https://github.com/KGmajor
-[3]: https://www.linkedin.com/in/kristalsoman/
 
 
 <!-- Resources -->
